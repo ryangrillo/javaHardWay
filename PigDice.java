@@ -8,6 +8,8 @@ public class PigDice {
 		ptot = 0;
 		ctot = 0;
 		
+	
+	
 		do {
 			turnTotal = 0;
 			System.out.println("You have " + ptot + " points.");
